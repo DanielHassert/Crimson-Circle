@@ -27,8 +27,8 @@ Crimson Circle is a World of Warcraft Guild. Here I collect some resources like 
   - Hilft bei der Übersicht im Kampf, da Dots/Debuffs etc. am Balken angezeigt werden können
   - Mein Profil: http://bit.ly/DazasPlaterProfile
 - **Weakauras** :heart:
- - https://www.curseforge.com/wow/addons/weakauras-2
- - wago.io https://wago.io/wotlk-weakauras/classes/priest/shadow
+  - https://www.curseforge.com/wow/addons/weakauras-2
+  - wago.io https://wago.io/wotlk-weakauras/classes/priest/shadow
 
 ## Makros:
 
