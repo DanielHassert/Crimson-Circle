@@ -11,17 +11,17 @@ Crimson Circle is a World of Warcraft Guild. Here I collect some resources like 
 
 ## Analyse:
 - DPS Simulieren (Siehe Addon zum Gear exportieren)
- - https://wowsims.github.io/wotlk/shadow_priest/
+  - https://wowsims.github.io/wotlk/shadow_priest/
 - Dots Clipping & Uptime analysieren
- - https://thewellnamed.github.io/shadow/
+  - https://thewellnamed.github.io/shadow/
 
 ## Addons:
 - WowSims Exporter
- - https://www.curseforge.com/wow/addons/wowsimsexporter
- - Mit Hilfe des Addons, lässt sich die aktuelle Ausrüstung exportieren um sie in `https://wowsims.github.io/wotlk` zu importieren
+  - https://www.curseforge.com/wow/addons/wowsimsexporter
+  - Mit Hilfe des Addons, lässt sich die aktuelle Ausrüstung exportieren um sie in `https://wowsims.github.io/wotlk` zu importieren
 - Plater Nameplates
- - https://www.curseforge.com/wow/addons/plater-nameplates
- - Hilft bei der Übersicht im Kampf, da Dots/Debuffs etc. am Balken angezeigt werden können
+  - https://www.curseforge.com/wow/addons/plater-nameplates
+  - Hilft bei der Übersicht im Kampf, da Dots/Debuffs etc. am Balken angezeigt werden können
 - Weakauras ❤️
  - https://www.curseforge.com/wow/addons/weakauras-2
  - [wago.io](https://wago.io/wotlk-weakauras/classes/priest/shadow)
